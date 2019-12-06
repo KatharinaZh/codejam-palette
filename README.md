@@ -1,1 +1,1 @@
-# codejam-palette
+# Codejam-Canvas
